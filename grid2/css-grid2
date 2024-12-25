@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card-grid</title>
+    <link rel="stylesheet" href="grid.css">
+</head>
+<body>
+    <div class="rain">
+        <div class="container">
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product1</h4>
+            <p>$10.99</p>
+        </div>
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product2</h4>
+            <p>$15.49</p>
+        </div>
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product3</h4>
+            <p>$8.99</p>
+        </div>
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product4</h4>
+            <p>$12.99</p>
+        </div>
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product5</h4>
+            <p>$9.99</p>
+        </div>
+        <div class="card">
+            <img src="150x150.png">
+            <h4>product6</h4>
+            <p>$11.99</p>
+        </div>
+        </div> 
+    </div>
+</body>
+</html>
